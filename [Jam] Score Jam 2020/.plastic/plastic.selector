@@ -1,0 +1,4 @@
+repository "[Jam] Score Jam 2020@local"
+  path "/"
+    br "/main"
+    co "/main"
