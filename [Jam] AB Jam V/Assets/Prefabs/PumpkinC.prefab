@@ -1,0 +1,99 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &4671481822601608346
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 4852708424845341923, guid: 692ea0d55384bf34b8bd32f9420d6879, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 8869348314594302954, guid: 9875c4f8325a0554295b8d6993b0710e, type: 3}
+    - target: {fileID: 4852708424845341923, guid: 692ea0d55384bf34b8bd32f9420d6879, type: 3}
+      propertyPath: m_Color.b
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4852708424845341923, guid: 692ea0d55384bf34b8bd32f9420d6879, type: 3}
+      propertyPath: m_Color.g
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4852708424845341923, guid: 692ea0d55384bf34b8bd32f9420d6879, type: 3}
+      propertyPath: m_Color.r
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4852708424845341926, guid: 692ea0d55384bf34b8bd32f9420d6879, type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4852708424845341926, guid: 692ea0d55384bf34b8bd32f9420d6879, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4852708424845341926, guid: 692ea0d55384bf34b8bd32f9420d6879, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4852708424845341926, guid: 692ea0d55384bf34b8bd32f9420d6879, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4852708424845341926, guid: 692ea0d55384bf34b8bd32f9420d6879, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4852708424845341926, guid: 692ea0d55384bf34b8bd32f9420d6879, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4852708424845341926, guid: 692ea0d55384bf34b8bd32f9420d6879, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4852708424845341926, guid: 692ea0d55384bf34b8bd32f9420d6879, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4852708424845341926, guid: 692ea0d55384bf34b8bd32f9420d6879, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4852708424845341926, guid: 692ea0d55384bf34b8bd32f9420d6879, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4852708424845341926, guid: 692ea0d55384bf34b8bd32f9420d6879, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4852708424845341927, guid: 692ea0d55384bf34b8bd32f9420d6879, type: 3}
+      propertyPath: m_Name
+      value: PumpkinC
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 692ea0d55384bf34b8bd32f9420d6879, type: 3}
+--- !u!1 &255622630503041149 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 4852708424845341927, guid: 692ea0d55384bf34b8bd32f9420d6879, type: 3}
+  m_PrefabInstance: {fileID: 4671481822601608346}
+  m_PrefabAsset: {fileID: 0}
+--- !u!95 &3331873894480055604
+Animator:
+  serializedVersion: 3
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 255622630503041149}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: 3acde5617bd5e164c8f22110bf9173b4, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorControllerStateOnDisable: 0
