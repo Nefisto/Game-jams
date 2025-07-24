@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="EventFolder" id="{5ca3255c-56ef-439b-b60b-42cc236f101c}">
+		<property name="note">
+			<value># PT -------------------------------------------------------
+
+Apenas os sons ambientais que serão reproduzidos de acordo com o estado do nível. Por exemplo: debaixo d'água.
+
+# EN -------------------------------------------------------
+
+Only environmental sounds that will be playing according to the state of the level. For example: underwater.</value>
+		</property>
+		<property name="name">
+			<value>state</value>
+		</property>
+		<relationship name="folder">
+			<destination>{375f6d5c-709f-4547-adc6-26558dcf21bc}</destination>
+		</relationship>
+	</object>
+</objects>

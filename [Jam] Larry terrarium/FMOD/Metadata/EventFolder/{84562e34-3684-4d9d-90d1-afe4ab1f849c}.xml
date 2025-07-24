@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="EventFolder" id="{84562e34-3684-4d9d-90d1-afe4ab1f849c}">
+		<property name="note">
+			<value># PT -------------------------------------------------------
+
+Apenas sons ambientais que serão reproduzidos durante todo ou parte do nível.
+
+# EN -------------------------------------------------------
+
+Only environmental sounds that will be playing for 
+the wholeor partially level.
+</value>
+		</property>
+		<property name="name">
+			<value>ambience</value>
+		</property>
+		<relationship name="folder">
+			<destination>{375f6d5c-709f-4547-adc6-26558dcf21bc}</destination>
+		</relationship>
+	</object>
+</objects>

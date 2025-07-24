@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{e039d070-32ca-465c-b98b-4c27fd7f474e}">
+		<property name="assetPath">
+			<value>668978__vestibule-door__beeps-for-heart-monitor.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>1</value>
+		</property>
+		<property name="length">
+			<value>3.3233106575963718</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{c0a97252-e128-4122-b644-a574ca2fadee}</destination>
+		</relationship>
+	</object>
+</objects>

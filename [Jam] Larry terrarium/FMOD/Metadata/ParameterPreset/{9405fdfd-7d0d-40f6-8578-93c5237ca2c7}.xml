@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="ParameterPreset" id="{9405fdfd-7d0d-40f6-8578-93c5237ca2c7}">
+		<property name="name">
+			<value>dist</value>
+		</property>
+		<relationship name="folder">
+			<destination>{898ca60f-792f-4ff3-ad56-b92d3ce76885}</destination>
+		</relationship>
+		<relationship name="parameter">
+			<destination>{de645f47-effa-4f05-b957-68922961883e}</destination>
+		</relationship>
+	</object>
+	<object class="GameParameter" id="{de645f47-effa-4f05-b957-68922961883e}">
+		<property name="parameterType">
+			<value>10</value>
+		</property>
+		<property name="initialValue">
+			<value>0</value>
+		</property>
+		<property name="isExposedRecursively">
+			<value>false</value>
+		</property>
+	</object>
+</objects>

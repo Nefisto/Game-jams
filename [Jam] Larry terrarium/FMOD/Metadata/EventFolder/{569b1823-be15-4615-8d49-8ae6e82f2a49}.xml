@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="EventFolder" id="{569b1823-be15-4615-8d49-8ae6e82f2a49}">
+		<property name="note">
+			<value># PT -------------------------------------------------------
+Todos os sons relacionados a entidades encontradas em jogo.
+
+# EN -------------------------------------------------------
+All sounds related to all entities encountered in-game.
+
+</value>
+		</property>
+		<property name="name">
+			<value>entities</value>
+		</property>
+		<relationship name="folder">
+			<destination>{89d92947-df6c-45bb-ae14-4b4077d3038e}</destination>
+		</relationship>
+	</object>
+</objects>

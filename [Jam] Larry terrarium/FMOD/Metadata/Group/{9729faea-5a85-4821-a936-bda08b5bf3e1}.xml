@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="MixerGroup" id="{9729faea-5a85-4821-a936-bda08b5bf3e1}">
+		<property name="name">
+			<value>01_cozyMap</value>
+		</property>
+		<relationship name="effectChain">
+			<destination>{6b42f0d9-313e-4d57-bddb-ac0fcea83f77}</destination>
+		</relationship>
+		<relationship name="panner">
+			<destination>{5dcabe56-be89-45eb-bfe1-bab4cdc1203d}</destination>
+		</relationship>
+		<relationship name="output">
+			<destination>{176ebdda-e219-4818-9718-24621ee2f27f}</destination>
+		</relationship>
+	</object>
+	<object class="MixerBusEffectChain" id="{6b42f0d9-313e-4d57-bddb-ac0fcea83f77}">
+		<relationship name="effects">
+			<destination>{e8bc8898-ce8a-4800-979d-55afd37f79de}</destination>
+		</relationship>
+	</object>
+	<object class="MixerBusPanner" id="{5dcabe56-be89-45eb-bfe1-bab4cdc1203d}" />
+	<object class="MixerBusFader" id="{e8bc8898-ce8a-4800-979d-55afd37f79de}" />
+</objects>

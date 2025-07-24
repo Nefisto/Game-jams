@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="Snapshot" id="{90af0d9c-639f-4ea3-a136-65caf07a6a0b}">
+		<property name="name">
+			<value>reverb_o</value>
+		</property>
+		<property name="behavior">
+			<value>1</value>
+		</property>
+		<relationship name="mixer">
+			<destination>{f15d13a9-4ec2-4df7-980e-8379987e7fc7}</destination>
+		</relationship>
+		<relationship name="automatableProperties">
+			<destination>{671d39ef-4779-40ae-91a5-cad38e35d9c7}</destination>
+		</relationship>
+		<relationship name="markerTracks">
+			<destination>{5051ee23-a432-4ad2-9ee7-c71e3219d10e}</destination>
+		</relationship>
+		<relationship name="timeline">
+			<destination>{0bf67dc7-6ca6-4d2d-a00b-96ce3796334c}</destination>
+		</relationship>
+		<relationship name="snapshotMasterTrack">
+			<destination>{af4efc66-bcf9-430f-80d1-d88f443c0555}</destination>
+		</relationship>
+	</object>
+	<object class="EventAutomatableProperties" id="{671d39ef-4779-40ae-91a5-cad38e35d9c7}" />
+	<object class="MarkerTrack" id="{5051ee23-a432-4ad2-9ee7-c71e3219d10e}" />
+	<object class="Timeline" id="{0bf67dc7-6ca6-4d2d-a00b-96ce3796334c}" />
+	<object class="SnapshotMasterTrack" id="{af4efc66-bcf9-430f-80d1-d88f443c0555}" />
+</objects>

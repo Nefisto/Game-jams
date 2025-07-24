@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="MasterTagFolder" id="{09b83187-7c9a-4248-91d9-f1cd23354e26}">
+		<property name="name">
+			<value>Master</value>
+		</property>
+		<relationship name="items">
+			<destination>{2686899a-74b4-413f-899a-53917d7afd8f}</destination>
+			<destination>{1e5b9a12-83de-4a55-b27c-5ef01261006a}</destination>
+			<destination>{879af1ac-551a-4d4f-a649-1b9edc826703}</destination>
+			<destination>{a87658b4-f079-421b-a632-0a789e600200}</destination>
+			<destination>{698ce100-c927-4d0c-9a52-4ab81cde4461}</destination>
+			<destination>{bc247c90-8489-40ea-8d2b-adc63b22a18d}</destination>
+			<destination>{bb113c66-7a48-4c6a-99eb-ddab03373b98}</destination>
+			<destination>{6f2a4f04-66c5-44f5-abda-7d1bb6abd1ad}</destination>
+			<destination>{df21358f-66ce-4b0d-aba5-729886f202bc}</destination>
+			<destination>{c0b77d92-1fc8-43f2-bc64-7ebb1f32e0f4}</destination>
+		</relationship>
+	</object>
+	<object class="Tag" id="{2686899a-74b4-413f-899a-53917d7afd8f}">
+		<property name="name">
+			<value>sfx</value>
+		</property>
+	</object>
+	<object class="Tag" id="{1e5b9a12-83de-4a55-b27c-5ef01261006a}">
+		<property name="name">
+			<value>player</value>
+		</property>
+	</object>
+	<object class="Tag" id="{879af1ac-551a-4d4f-a649-1b9edc826703}">
+		<property name="name">
+			<value>dialogue</value>
+		</property>
+	</object>
+	<object class="Tag" id="{a87658b4-f079-421b-a632-0a789e600200}">
+		<property name="name">
+			<value>characters</value>
+		</property>
+	</object>
+	<object class="Tag" id="{698ce100-c927-4d0c-9a52-4ab81cde4461}">
+		<property name="name">
+			<value>music</value>
+		</property>
+	</object>
+	<object class="Tag" id="{bc247c90-8489-40ea-8d2b-adc63b22a18d}">
+		<property name="name">
+			<value>environment</value>
+		</property>
+	</object>
+	<object class="Tag" id="{bb113c66-7a48-4c6a-99eb-ddab03373b98}">
+		<property name="name">
+			<value>ambience</value>
+		</property>
+	</object>
+	<object class="Tag" id="{6f2a4f04-66c5-44f5-abda-7d1bb6abd1ad}">
+		<property name="name">
+			<value>gun</value>
+		</property>
+	</object>
+	<object class="Tag" id="{df21358f-66ce-4b0d-aba5-729886f202bc}">
+		<property name="name">
+			<value>local</value>
+		</property>
+	</object>
+	<object class="Tag" id="{c0b77d92-1fc8-43f2-bc64-7ebb1f32e0f4}">
+		<property name="name">
+			<value>objects</value>
+		</property>
+	</object>
+</objects>

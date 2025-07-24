@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="EventFolder" id="{375f6d5c-709f-4547-adc6-26558dcf21bc}">
+		<property name="note">
+			<value># PT -------------------------------------------------------
+
+Contém todos os eventos relacionados a sons ambientais.
+
+Ambience: será reproduzido durante todo o nível.
+
+Local: será reproduzido para objetos.
+
+State: será reproduzido de acordo com o estado.
+
+# EN -------------------------------------------------------
+
+This holds all the events related to environmental sounds.
+
+Ambience: will be playing for the whole level.
+
+Local: will be playing for objects.
+
+State: will be playing according to state.</value>
+		</property>
+		<property name="name">
+			<value>Environment</value>
+		</property>
+		<relationship name="folder">
+			<destination>{99a6c11a-bffb-49f7-abf3-b7dc36cbd1ed}</destination>
+		</relationship>
+	</object>
+</objects>

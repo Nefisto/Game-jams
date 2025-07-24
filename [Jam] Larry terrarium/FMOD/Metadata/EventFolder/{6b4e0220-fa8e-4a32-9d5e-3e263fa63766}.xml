@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="EventFolder" id="{6b4e0220-fa8e-4a32-9d5e-3e263fa63766}">
+		<property name="note">
+			<value># PT -------------------------------------------------------
+
+Apenas sons ambientais que serão reproduzidos para os objetos do jogo ou emissores de eventos.
+
+# EN -------------------------------------------------------
+
+Only environmental sounds that will be playing for the game objects or event emitter.
+
+</value>
+		</property>
+		<property name="name">
+			<value>local</value>
+		</property>
+		<relationship name="folder">
+			<destination>{375f6d5c-709f-4547-adc6-26558dcf21bc}</destination>
+		</relationship>
+	</object>
+</objects>

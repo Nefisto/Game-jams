@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="EventFolder" id="{7e6576ea-b26c-4517-bfd1-141ffd7ead65}">
+		<property name="note">
+			<value>All sounds related to the player.</value>
+		</property>
+		<property name="name">
+			<value>player</value>
+		</property>
+		<relationship name="folder">
+			<destination>{89d92947-df6c-45bb-ae14-4b4077d3038e}</destination>
+		</relationship>
+	</object>
+</objects>

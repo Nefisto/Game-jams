@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="ParameterPreset" id="{6e3dd9a4-8978-4eb5-b41b-eb43946774c1}">
+		<property name="note">
+			<value>Used to fade out musics.</value>
+		</property>
+		<property name="name">
+			<value>fade</value>
+		</property>
+		<relationship name="folder">
+			<destination>{87a78a51-5939-4049-b54b-9cf8626f7123}</destination>
+		</relationship>
+		<relationship name="parameter">
+			<destination>{e0e6a29e-800e-4b41-b848-9c21ff30d3da}</destination>
+		</relationship>
+	</object>
+	<object class="GameParameter" id="{e0e6a29e-800e-4b41-b848-9c21ff30d3da}">
+		<property name="initialValue">
+			<value>0</value>
+		</property>
+		<property name="seekSpeed">
+			<value>2</value>
+		</property>
+		<property name="seekSpeedDescending">
+			<value>4</value>
+		</property>
+		<property name="seekSpeedAsymmetric">
+			<value>true</value>
+		</property>
+		<relationship name="automators">
+			<destination>{dcc7f39e-98f8-455d-b2ae-7ef1f7443f09}</destination>
+		</relationship>
+	</object>
+	<object class="Automator" id="{dcc7f39e-98f8-455d-b2ae-7ef1f7443f09}">
+		<property name="nameOfPropertyBeingAutomated">
+			<value>cursorPosition</value>
+		</property>
+	</object>
+</objects>

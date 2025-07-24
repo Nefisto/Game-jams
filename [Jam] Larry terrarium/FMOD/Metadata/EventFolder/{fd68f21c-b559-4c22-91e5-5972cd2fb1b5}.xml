@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="EventFolder" id="{fd68f21c-b559-4c22-91e5-5972cd2fb1b5}">
+		<property name="note">
+			<value># PT -------------------------------------------------------
+
+Para personagens jogáveis e não jogáveis. Áudio persistente ao longo do jogo.
+
+Dialogue: se o jogo tiver diálogos, o som deve estar aqui para cada falante.
+
+Player: o som acionado pelo personagem jogável, que também é o emissor, está aqui.
+
+Enemies: o som acionado por personagens jogáveis e não jogáveis, onde o NPC (marcado como inimigo) é o emissor, está aqui.
+
+NPCs: o som acionado por personagens jogáveis e não jogáveis, onde o NPC (marcado como NPC) é o emissor, está aqui.
+
+# EN -------------------------------------------------------
+
+For playable and non-playable characters. Persistent audio across the game.
+
+Dialogue: if the game chat has dialogue, the sound should go here for every speaker.
+
+Player: the sound triggered by the playable character which is also the emitter goes here.
+
+Enemies: the sound triggered by playable and non-playable characters where the NPC (tagged as enemy) is the emitter goes here.
+
+NPCs: he sound triggered by playable and non-playable characters where the NPC (tagged as NPC) is the emitter goes here.</value>
+		</property>
+		<property name="name">
+			<value>SFX</value>
+		</property>
+		<relationship name="folder">
+			<destination>{99a6c11a-bffb-49f7-abf3-b7dc36cbd1ed}</destination>
+		</relationship>
+	</object>
+</objects>

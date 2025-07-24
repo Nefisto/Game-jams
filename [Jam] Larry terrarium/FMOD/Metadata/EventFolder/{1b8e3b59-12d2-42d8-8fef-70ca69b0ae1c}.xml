@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="EventFolder" id="{1b8e3b59-12d2-42d8-8fef-70ca69b0ae1c}">
+		<property name="note">
+			<value># PT -------------------------------------------------------
+
+Contém todos os arquivos template que serão copiados e colados ao longo do projeto.
+
+# EN -------------------------------------------------------
+
+This contains all the template files that will be copied and pasted throughout the project.
+
+ </value>
+		</property>
+		<property name="name">
+			<value>Templates</value>
+		</property>
+		<relationship name="folder">
+			<destination>{99a6c11a-bffb-49f7-abf3-b7dc36cbd1ed}</destination>
+		</relationship>
+	</object>
+</objects>

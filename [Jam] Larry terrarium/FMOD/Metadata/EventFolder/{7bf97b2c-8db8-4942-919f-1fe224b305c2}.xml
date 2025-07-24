@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="EventFolder" id="{7bf97b2c-8db8-4942-919f-1fe224b305c2}">
+		<property name="name">
+			<value>01_cozyMap</value>
+		</property>
+		<relationship name="folder">
+			<destination>{84562e34-3684-4d9d-90d1-afe4ab1f849c}</destination>
+		</relationship>
+	</object>
+</objects>

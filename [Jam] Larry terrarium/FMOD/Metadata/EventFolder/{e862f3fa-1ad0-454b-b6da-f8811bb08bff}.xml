@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="EventFolder" id="{e862f3fa-1ad0-454b-b6da-f8811bb08bff}">
+		<property name="note">
+			<value># PT -------------------------------------------------------
+
+Para torná-lo escalável, estarei usando uma pasta separada para diálogos, que podem conter dispositivos de diálogo de acordo com o humor do ator.
+
+# EN -------------------------------------------------------
+
+In order to make it scalable, I'll be using a separate folder for dialogues which might contain dialogue contraptions according to the actor mood.</value>
+		</property>
+		<property name="name">
+			<value>dialogue</value>
+		</property>
+		<relationship name="folder">
+			<destination>{89d92947-df6c-45bb-ae14-4b4077d3038e}</destination>
+		</relationship>
+	</object>
+</objects>
